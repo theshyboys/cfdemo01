@@ -1,5 +1,25 @@
 import Image from "next/image";
 
+
+/**
+ git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/theshyboys/appm.git
+git push -u origin main
+
+
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+
+ */
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
